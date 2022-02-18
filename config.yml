@@ -3,10 +3,11 @@ languageCode: en-us
 title: Amos Tay
 theme: "PaperMod"
 
+params:
   homeInfoParams:
           Title: "Hello"
           Content: >
-              I'm **Amos Tay and this is my personal site.
+              I'm **Amos Tay** and this is my personal site.
               - Here I (plan to) write about personal thoughts and experiences, and learnings from a career in Data Analytics
               - All opinions are my own.
               
