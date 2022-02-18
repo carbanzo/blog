@@ -5,6 +5,8 @@ theme: "PaperMod"
 paginate: 5
 
 languages:
+    languageName: "English"
+    weight: 1
     en:
         menu:
             main:
