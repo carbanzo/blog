@@ -3,19 +3,34 @@ languageCode: en-us
 title: amos tay
 theme: "PaperMod"
 
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
 params:
-  
+
   defaultTheme: light
+  ShowShareButtons: true
+  ShowReadingTime: true
+  # disableSpecial1stPost: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+  # comments: false
   
   homeInfoParams:
           Title: "Hello 👋 "
           Content: >
               I'm **Amos** and this is my personal site.
-              
+
               - Here I (plan to) write about personal thoughts and experiences, and learnings from a career in Data Analytics.
-              
+
               - All opinions are my own.
-              
+
   socialIcons:
       - name: github
         url: "https://github.com/carbanzo"
