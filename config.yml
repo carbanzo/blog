@@ -2,6 +2,7 @@ baseURL: https://amostay.xyz/
 languageCode: en-us
 title: amos tay
 theme: "PaperMod"
+paginate: 5
 
 languages:
     en:
