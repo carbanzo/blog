@@ -4,6 +4,9 @@ title: Amos Tay
 theme: "PaperMod"
 
 params:
+  
+  defaultTheme: light
+  
   homeInfoParams:
           Title: "Hello 👋 "
           Content: >
