@@ -42,7 +42,7 @@ params:
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
-  ShowToc: true
+  ##ShowToc: true
   # comments: false
 
   homeInfoParams:
