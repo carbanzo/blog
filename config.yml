@@ -4,6 +4,13 @@ title: amos tay
 theme: "PaperMod"
 paginate: 5
 
+##enableInlineShortcodes: true
+##enableRobotsTXT: true
+##buildDrafts: false
+##buildFuture: false
+##buildExpired: false
+##enableEmoji: true
+
 menu:
     main:
         - name: Archive
@@ -37,7 +44,7 @@ params:
   ShowCodeCopyButtons: true
   ShowToc: true
   # comments: false
-  
+
   homeInfoParams:
           Title: "Hello 👋 "
           Content: >
