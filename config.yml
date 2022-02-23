@@ -44,6 +44,7 @@ params:
   ShowCodeCopyButtons: true
   ##ShowToc: true
   # comments: false
+  author: "Amos Tay"
 
   homeInfoParams:
           Title: "Hello 👋 "
