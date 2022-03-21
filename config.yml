@@ -11,6 +11,8 @@ paginate: 5
 ##buildExpired: false
 ##enableEmoji: true
 
+googleAnalytics: G-E04LDP7V0T
+
 menu:
     main:
         - name: Archive
