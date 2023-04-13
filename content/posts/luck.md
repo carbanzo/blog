@@ -4,7 +4,7 @@ date: 2023-04-14T00:06:00+08:00
 draft: false
 ---
 
-> Chance favours the prepared mind - Louis Pasteur
+> _Chance favours the prepared mind - Louis Pasteur_
 
 Luck is often both underrated and overrated.
 
