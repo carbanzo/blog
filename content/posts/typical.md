@@ -4,8 +4,6 @@ date: 2023-04-16T00:17:00+08:00
 draft: false
 ---
 
-> _Chance favours the prepared mind - Louis Pasteur_
-
 We all like to think of ourselves as special or extraordinary in some ways. Not fun to be an average Joe, or be like "everyone else". But recently as I think of who I am as a husband and a father to two boys, I'm as typical as they get. I'm the financial breadwinner, I focus most of my weekdays on work, I find my kids too hard to handle to spend enough dedicated time with them, I push family away so I can focus on doing my own stuff. I let my wife focus on building the family, keeping the house clean and organised, and planning for the kids.
 
 If one day I get one of those World's Best Dad mugs, I cannot think of a single reason why I deserve it over other dads. I don't think I'm a particularly _bad_ father, but not a particularly great one too. If at my eulogy, my wife says that I had been a great husband, I also can't think of a good reason why.
