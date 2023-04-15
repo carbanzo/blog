@@ -10,11 +10,11 @@ If one day I get one of those World's Best Dad mugs, I cannot think of a single 
 
 I should do better. I should make my family feel proud and thankful that they have me. What do I wanna be good at, as a husband and father?
 
-#Being present
+#### Being present
 I recently watched a random YouTube video where Blake Lively called Ryan Reynold's the most present father, and how he would always rush home to spend time with family even after a crazy day at work. I would love my family to think of me like that one day--that I was the most present father and husband, that I would dedicate 100% focus into all the little small things. Even if it's for a short while every day, I have to be more present
 
-#Passing wisdom and knowledge*
+#### Passing wisdom and knowledge
 I wanna be the kind of father that spends enough effort teaching my kids how it's like to be a good person (even if I'm not one myself), and to be wise (again, even if I may not be). Give them the tools that they need to grow as someone 10x better than me. I would like to share more things that I learn with Shanna and have more intellectual conversation without making her feel inferior or insecure as she always does. As a family we should always be growing and learning from each other
 
-#Building things*
+#### Building things
 I wanna do so many passion projects with my kids as they grow and get curious about things. I hope to have solved the money problem before they become teenagers, so I can spend as much time developing their curiosities and experiment on things, and build really cool stuff together!
